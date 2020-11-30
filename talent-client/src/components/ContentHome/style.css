@@ -1,0 +1,11 @@
+.MuiFormLabel-root,
+.Mui-focused:focus {
+  color: #8d8d8d !important;
+}
+.MuiInput-underline:after {
+  border-bottom: 2px solid yellow !important;
+}
+.MuiSelect-icon {
+  color: #000000 !important;
+  background: #ffffff08 !important;
+}

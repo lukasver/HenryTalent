@@ -1,0 +1,9 @@
+require: ts-node/register
+full-trace: true
+delay: true
+file:
+  - './test/resetDB.ts'
+node:
+  - 14
+  - 13
+  - 12
