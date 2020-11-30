@@ -2,8 +2,10 @@
 
 Graduation project at soyHenry.com bootcamp.
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=lukasver.HenryTalent)
+
 *Dev Leader*
-@MartinCura
+- @MartinCura
 
 *Dev Team*
 - @Lukasver
