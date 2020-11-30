@@ -1,13 +1,19 @@
 # Henry Talent
 
-*API PACKAGES*
+Graduation project at soyHenry.com bootcamp.
 
-*CLIENT PACKAGES*
-- Typescript
-- React-router-dom
-- @material-ui/core
-- @material-ui/icons
-- Prop-types
+*Dev Leader*
+@MartinCura
+
+*Dev Team*
+- @Lukasver
+- @FedericoCalderon
+- @diegotolaba09
+- @Kuinoso
+- @SebaLevin
+- @MatiasFunes94
+- @BryanCPineda
+- @cristianluca19
 
 ## Contributing
 
