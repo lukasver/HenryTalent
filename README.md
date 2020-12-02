@@ -1,9 +1,11 @@
 <p align="center">
 <a href="http://www.soyhenry.com"><img height="100" src="https://i.ibb.co/0BBdnqK/imagen-2020-12-02-102054.png" alt="Henry Talent Logo" align="center" style="border-radius:10px"></a>
 </p>
+
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=lukasver.HenryTalent" align="center>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=lukasver.HenryTalent" align="center">
 </p>
+
 
 ---
 
@@ -12,11 +14,6 @@
 It features a web application that helps Henry staffmembers to search and choose different graduated students(candidates) allowing them to create unique dossiers that are sent to HR recruiters through an e-mail with a unique view link.
 Candidate's profiles can be filtered by different attributes and skills allowing selector and recruiters to swiftly find the ones that suits their needs.
 On the back, it also allows Henry staff members to CRUD candidate profiles that are ready to be selected and bulk create candidates by uploading a csv file.
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=lukasver.HenryTalent" align="center>
-</p>
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=lukasver.HenryTalent) -->
 
 ## Contributors
 
@@ -54,11 +51,14 @@ style="border-radius:50%">][martin]
 
 <br/>
 
-## Features
+# Features
 
-
-
-<!-- Seguir [buenas prácticas de programación](https://gist.github.com/henry-labs/fde7766161fb098a8e4edc04cc4caa97)! -->
+<a href="https://ibb.co/j4HqtFf"><img width="400" src="https://i.ibb.co/nkR4pSm/home.jpg" alt="home" border="0" /></a>
+<a href="https://ibb.co/m5C7r6t"><img width="400" src="https://i.ibb.co/Zz6CRWK/skillsmodal.jpg" alt="skillsmodal" border="0" /></a>
+<br>
+<br>
+<a href="https://ibb.co/80VbDGB"><img width="400" src="https://i.ibb.co/rmJ3Gqt/martin-pre-demo.png" alt="martin-pre-demo" border="0" /></a>
+<a href="https://ibb.co/r4d7v1Q"><img width="400" src="https://i.ibb.co/vZXwDKc/martin-pre-demo-2.png" alt="martin-pre-demo-2" border="0" /></a>
 
 [henry]: "soyhenry.com"
 [lucas]: "https://github.com/lukasver"
