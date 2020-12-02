@@ -16,27 +16,30 @@ Candidate's profiles can be filtered by different attributes and skills allowing
 On the back, it also allows Henry staff members to CRUD candidate profiles that are ready to be selected and bulk create candidates by uploading a csv file.
 
 ## DevLeader
-[<img height="40" src="https://avatars3.githubusercontent.com/u/14017665?s=64&v=4" alt="MC"
-style="border-radius:50%">][martin]
+[<img height="40" src="https://avatars3.githubusercontent.com/u/14017665?s=64&v=4" alt="MC">](https://github.com/MartinCura "Martin Cura")
 
 ## Contributors
 
-[<img height="40" src="https://avatars0.githubusercontent.com/u/63676303?s=64&v=4" alt="LV"
-style="border-radius:50%">]([lucas])
-[<img height="40" src="https://avatars3.githubusercontent.com/u/68471168?s=64&v=4" alt="FC"
-style="border-radius:50%">][fede]
-[<img height="40" src="https://avatars0.githubusercontent.com/u/15040221?s=64&v=4" alt="DT"
-style="border-radius:50%">][diego]
-[<img height="40" src="https://avatars1.githubusercontent.com/u/61234645?s=64&v=4" alt="LC"
-style="border-radius:50%">][leo]
-[<img height="40" src="https://avatars1.githubusercontent.com/u/32738757?s=64&v=4" alt="SL"
-style="border-radius:50%">][seba]
-[<img height="40" src="https://avatars1.githubusercontent.com/u/66705822?s=64&v=4" alt="MF"
-style="border-radius:50%">][mati]
-[<img height="40" src="https://avatars1.githubusercontent.com/u/66718960?s=64&v=4" alt="BP"
-style="border-radius:50%">][bryan]
-[<img height="40" src="https://avatars2.githubusercontent.com/u/66442589?s=64&v=4" alt="CL"
-style="border-radius:50%">][cristian]
+[<img height="40" src="https://avatars0.githubusercontent.com/u/63676303?s=64&v=4" alt="LV">](https://github.com/lukasver "Lucas Verdiell")
+[<img height="40" src="https://avatars3.githubusercontent.com/u/68471168?s=64&v=4" alt="FC">](https://github.com/FedericoCalderon "Federico Calderon")
+[<img height="40" src="https://avatars0.githubusercontent.com/u/15040221?s=64&v=4" alt="DT">](https://github.com/diegotolaba09 "Diego Tolaba")
+[<img height="40" src="https://avatars1.githubusercontent.com/u/61234645?s=64&v=4" alt="LC">](https://github.com/Kuinoso "Leonardo Cifuentes")
+[<img height="40" src="https://avatars1.githubusercontent.com/u/32738757?s=64&v=4" alt="SL">](https://github.com/SebaLevin "Sebastian Levin")
+[<img height="40" src="https://avatars1.githubusercontent.com/u/66705822?s=64&v=4" alt="MF">](https://github.com/MatiasFunes94 "Matias Funes")
+[<img height="40" src="https://avatars1.githubusercontent.com/u/66718960?s=64&v=4" alt="BP">](https://github.com/BryanCPineda "Bryan Pineda")
+[<img height="40" src="https://avatars2.githubusercontent.com/u/66442589?s=64&v=4" alt="CL">](https://github.com/cristianluca19 "Cristian Lucatti")
+
+[henry]: "soyhenry.com"
+[lucas]: "https://github.com/lukasver"
+[fede]: "https://github.com/FedericoCalderon"
+[diego]: "https://github.com/diegotolaba09"
+[leo]: "https://github.com/Kuinoso"
+[seba]: "https://github.com/SebaLevin"
+[mati]: "https://github.com/MatiasFunes94"
+[bryan]: "https://github.com/BryanCPineda"
+[cristian]: "https://github.com/cristianluca19"
+[martin]: "https://github.com/MartinCura"
+
 
 ## Project Objetives
 
@@ -46,8 +49,6 @@ style="border-radius:50%">][cristian]
 - Use AGILE methodologies & SCRUM
 - learn good programming practices
 - implement testing to deliver trustworthy code
-
-<br/>
 
 # Features
 
