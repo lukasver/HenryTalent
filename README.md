@@ -57,18 +57,20 @@ style="border-radius:50%">][cristian]
 |---        	    |---      	  |
 |Javascript (ES6) |  NodeJS  	  |
 |React          	|  Express 	  |
-|Redux          	|  MVC     	  |
+|Redux          	|  Typescript |
 |Material-ui      |  OpenAPI 	  |
-|sweetalert2      |  Mailgun 	  |
+|sweetalert2      |  MVC 	      |
 |Prop-types       |  Mocha/Chai	|
-
 
 ### Database:
 PostgreSQL & Sequelize ORM
 
+### Other libraries & tech:
+Prettier, Eslint, CI, Faker, Malgun-js, Multer.
+
 ## **Starting Instructions** 
 
-## BoilerPlate
+### **BoilerPlate**
 
 The boilerPlate has two folders: `api` and `client`.
 
@@ -104,7 +106,8 @@ You have to replace `your_own_port`, `postgresuser`, `postgrespassword`, `postgr
 
 The SESSION_SECRET is a random security keyword, you can change or keep it.  
 
-## Next 
+### **Next** 
+
 ### _Connect the data base_
 
  - Go to your postgres database manager and create a new   database. Replace `"data_base_name"` in `.env` file with the name of the new database.
