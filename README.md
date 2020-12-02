@@ -43,12 +43,12 @@ On the back, it also allows Henry staff members to CRUD candidate profiles that 
 
 ## Project Objetives
 
-- Build a JavaScript App from scratch
-- Afirm and conect all the learned concepts in the Carreer 
-- Practice GIT workflow / team work, in a real working environment
+- Develop a JavaScript App from scratch.
+- Reassure and connect all learned concepts in the Bootcamp. 
+- Practice GIT workflow / team work in a real working environment, following professional guidelines.
 - Use AGILE methodologies & SCRUM
-- learn good programming practices
-- implement testing to deliver trustworthy code
+- Learn good programming practices.
+- Implement testing to deliver trusty code.
 
 # Features
 
@@ -75,8 +75,8 @@ Prettier, Eslint, CI, Faker, Malgun-js, Multer.
 
 The boilerPlate has two folders: `api` and `client`.
 
-Inside `api` you must have to create a file called: `.env` 
-that has the following form: 
+Inside `api` you must create a file called: `.env` 
+that contains the following variables: 
 
 ```
 APP_ID=talent-api 
@@ -103,7 +103,7 @@ MAILGUN_APIKEY = mailgun_apikey
 MAILGUN_TALENT = mailgun_email
 
 ```
-You have to replace `your_own_port`, `postgresuser`, `postgrespassword`, `postgresport`, and `MAILGUN*`  with your own credentials to connect to postgres database, and Mailgun services. This file will be ignored by github, as it contains sensitive information (the credentials).
+You have to replace `your_own_port`, `postgresuser`, `postgrespassword`, `postgresport`, and `MAILGUN*`  with your own credentials to connect to postgreSQL database, and Mailgun services. This file will be ignored by github, as it contains sensitive information (the credentials).
 
 The SESSION_SECRET is a random security keyword, you can change or keep it.  
 
@@ -111,29 +111,31 @@ The SESSION_SECRET is a random security keyword, you can change or keep it.
 
 ### _Connect the data base_
 
- - Go to your postgres database manager and create a new   database. Replace `"data_base_name"` in `.env` file with the name of the new database.
+ - Go to your postgreSQL database manager and create a new database. Replace `"data_base_name"` in `.env` file with the name of the new database.
 
  ### _Install the necesary package to run it_
 
-- Open the project console
+- Open the project on your console
     + Inside `api` folder, run the command line, `npm install` / `yarn install` 
     + Inside `client` folder, run the command line, `npm install` / `yarn install`.
 
 ### _Test the project_
 
-- Open the project console
+- Open the project on your console
     + Inside `api` folder, run the command line, `npm run test` / `yarn run test`.
-
-- Open the project console
-    + Inside `api` folder, run the command line, `npm run seed` / `yarn run seed` to fill the database.
 
 ### _Run the project_
 
-- Open the project console
+- Open the project on your console
     + Inside `api` folder, run the command line, `npm run dev` / `yarn run dev`.
         
     + Inside `client` folder, run the command line, `npm start` (go to http://localhost:3000/). 
 
+### _Fill the database_
+
+- Open the project on your console
+    + Inside `api` folder, run the command line, `npm run seed` / `yarn run seed` to fill the database.
+    
 # Project Screens 
 
 - Home 
