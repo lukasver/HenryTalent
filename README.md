@@ -22,7 +22,7 @@ style="border-radius:50%">][martin]
 ## Contributors
 
 [<img height="40" src="https://avatars0.githubusercontent.com/u/63676303?s=64&v=4" alt="LV"
-style="border-radius:50%">][lucas]
+style="border-radius:50%">]([lucas])
 [<img height="40" src="https://avatars3.githubusercontent.com/u/68471168?s=64&v=4" alt="FC"
 style="border-radius:50%">][fede]
 [<img height="40" src="https://avatars0.githubusercontent.com/u/15040221?s=64&v=4" alt="DT"
